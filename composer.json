@@ -1,0 +1,11 @@
+{
+    "name": "burnbright/silverstripe-simple-shop",
+    "description": "Adds shop styling to the simple theme",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "composer/installers": "*",
+        "silverstripe-themes/simple": "*"
+    }
+}
